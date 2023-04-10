@@ -1,0 +1,6 @@
+az\orient\course\main\MainClass.class
+az\orient\course\service\StudentService.class
+az\orient\course\service\StudentServiceImpl.class
+az\orient\course\dao\StudentDaoImpl.class
+az\orient\course\model\Student.class
+az\orient\course\dao\StudentDao.class
